@@ -10,5 +10,5 @@ https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Fundamental_Layout
 
 ### Link to final result:
 
-https://jasheloper.github.io/css-layout/ (in progress)
+https://jasheloper.github.io/css-layout/ 
 
